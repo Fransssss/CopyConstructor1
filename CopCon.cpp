@@ -1,4 +1,5 @@
 // Fransiskus Agapa
+// Class CopCon implementation
 
 #include "CopCon.h"
 #include <iostream>
