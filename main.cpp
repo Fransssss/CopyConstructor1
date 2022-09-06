@@ -30,15 +30,16 @@ int main()
         if(choice == "1")
         {
             cout << endl;
-            int userInt;                                        // input from user
-            CopCon newObj;                                      // class object
-            cout <<  newObj.GetData() << endl;                  // default value
+            int userInt;                                       // input from user
+            CopCon stObj;                                      // class object
+            cout <<  stObj.GetData() << endl;                  // default value
             cout << "------------------" << endl;
             cout << "Input a number: ";
             cin >> userInt;
             cout << endl;
-            newObj.SetData(userInt);                    // update value
-            cout << newObj.GetData() << endl;
+            stObj.SetData(userInt);                           // update value
+            CopCon ndObj = stObj;                             // another class object - copy constructor called
+            cout << ndObj.GetData() << endl;
         }
         else
         {
