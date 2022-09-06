@@ -8,4 +8,5 @@ Objectives:
 
 Example output
 
-![image](https://user-images.githubusercontent.com/97081479/188612625-50e49594-924e-414f-966b-7fa51eef79c7.png)
+
+![image](https://user-images.githubusercontent.com/97081479/188614781-a947cbf4-cae5-4a3f-8972-ea2a5873c7cc.png)
