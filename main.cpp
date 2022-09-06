@@ -48,7 +48,6 @@ int main()
 
         cout << endl << "== Copy Constructor Learning ==" << endl;
         cout << "1. Learn object of a class" << endl;
-        cout << "2. Learn pointer to a class object" << endl;
         cout << "e. Exit" << endl;
         cout << "choice: ";
         cin >> choice;
